@@ -1,5 +1,9 @@
+package clienteservidor;
+
 import java.text.SimpleDateFormat;
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
 
 public class ES {
     private static final Scanner sc = new Scanner(System.in);
